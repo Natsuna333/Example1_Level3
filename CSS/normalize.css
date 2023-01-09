@@ -1,0 +1,48 @@
+ 
+header{
+   text-align: center; 
+   background:url("../image/gif.gif");
+
+}
+ul{
+    padding:10px 10px 10px 10px;
+    background: black;
+}
+li{
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
+a{
+    color:white;
+}
+h1{
+    font-size: 70px;
+    
+}
+img{
+    margin:40px 0px 0px 0px;
+   border:7px solid white;
+   border-radius:80px;
+    
+}
+
+article{
+    width:500px;
+    padding:20px;
+    margin:0 auto
+    
+    
+}
+@media(max-width:500px){
+    {body{
+         li{
+    display:block;
+    padding:5xp;
+}
+     1{
+    font-size: 36px;
+    
+}
+    background:red;
+    }
+}
